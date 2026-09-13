@@ -10,16 +10,14 @@ This repository contains the source code for my personal portfolio, built to pre
 
 ## Tech Stack
 
-|---------------------|-------------------------|
-**| Category            | Technology              |**
-|---------------------|-------------------------|
-| Framework           | Next.js 14 (App Router) |
-| Language            | TypeScript              |
-| Styling             | Tailwind CSS            |
-| Animation           | Framer Motion           |
-| Email/Contact form  | Resend                  |
-| Deployment          | Vercel                  |
-|---------------------|-------------------------|
+| Category               | Technology                |
+|------------------------|---------------------------|
+| Framework              | Next.js 14 (App Router)   |
+| Language               | TypeScript                |
+| Styling                | Tailwind CSS              |
+| Animation              | Framer Motion             |
+| Email/Contact form     | Resend                    |
+| Deployment             | Vercel                    |
 
 ## Getting Started
 
