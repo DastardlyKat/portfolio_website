@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my work in robotics, embedded systems, computer vision, and full-stack development.
 
-**Live site:** [ADD_YOUR_VERCEL_LINK_HERE]
+**Live site:** (https://portfolio-website-1hevtwbf1-swakshar-boras-projects.vercel.app)
 
 ## Overview
 
@@ -49,7 +49,7 @@ This repository contains the source code for my personal portfolio, built to pre
        npm run dev
     ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open (http://localhost:3000) in your browser.
 
 ### Build for production
 
