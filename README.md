@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my work in robotics, embedded systems, computer vision, and full-stack development.
 
-**Live site:** [portfolio_webiste](https://portfolio-website-1hevtwbf1-swakshar-boras-projects.vercel.app)
+**Live site:** [portfolio_webiste](https://portfolio-website-ashen-ten-36.vercel.app/)
 
 ## Overview
 
