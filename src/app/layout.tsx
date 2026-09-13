@@ -28,15 +28,25 @@ export const metadata: Metadata = {
   title: 'Swakshar Bora — Full-Stack & Embedded Engineer',
   description:
     'Portfolio of Swakshar Bora — full-stack development (React, Next.js, Node.js, FastAPI, Prisma), 3D/CAD design in Fusion 360, and machine learning, deep learning, and computer vision projects.',
-  // TODO: swap in your real deployed domain once it's live.
-  metadataBase: new URL('https://yourdomain.com'),
+  metadataBase: new URL('https://portfolio-website-ashen-ten-36.vercel.app'),
   openGraph: {
     title: 'Swakshar Bora — Full-Stack & Embedded Engineer',
     description:
       'Portfolio of Swakshar Bora — full-stack development, 3D/CAD design, and ML/DL/computer vision projects.',
-    type: 'website'
-  }
-};
+    url: 'https://portfolio-website-ashen-ten-36.vercel.app',
+    siteName: 'Swakshar Bora Portfolio',
+    images: [
+     {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+      },
+    ],
+    type: 'website',
+  },
+}
+
+
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
